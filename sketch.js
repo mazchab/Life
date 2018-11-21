@@ -1,38 +1,66 @@
+// A wind direction vector
+var wind;
+// Circle position
+var position;
 
-/*
- * Creation & Computation - Digital Futures, OCAD University
- * Kate Hartman / Nick Puckett
+function setup() {
+  createCanvas(windowWidth, windowHeight);
+  // Request the data from apixu.com
+  var url = 'https://api.apixu.com/v1/current.json?key=513d8003c8b348f1a2461629162106&q=NYC';
+  loadJSON(url, gotWeather);
+  // Circle starts in the middle
+  position = createVector(width/2, height/2);
+  // wind starts as (0,0)
+  wind = createVector();
+}
 
-Get info about the arrival times of Buses/Streetcars at a particular stop
-execute this URL in the Browser to list all routes/tag codes
-http://webservices.nextbus.com/service/publicJSONFeed?command=routeList&a=ttc
-http://webservices.nextbus.com/service/publicJSONFeed?command=routeConfig&a=ttc&r=504  //**note change r=504 to r=<whatever tag code you get from the previous link>
+function draw() {
+  background(200);
 
-*/
+  // This section draws an arrow pointing in the direction of wind
+  push();
+  translate(32, height - 32);
+  // Rotate by the wind's angle
+  rotate(wind.heading() + PI/2);
+  noStroke();
+  fill(255);
+  ellipse(0, 0, 48, 48);
 
+  stroke(45, 123, 182);
+  strokeWeight(3);
+  line(0, -16, 0, 16);
 
+  noStroke();
+  fill(45, 123, 182);
+  triangle(0, -18, -6, -10, 6, -10);
+  pop();
+  
+  // Move in the wind's direction
+  position.add(wind);
+  
+  stroke(0);
+  fill(51);
+  ellipse(position.x, position.y, 16, 16);
 
+  if (position.x > width)  position.x = 0;
+  if (position.x < 0)      position.x = width;
+  if (position.y > height) position.y = 0;
+  if (position.y < 0)      position.y = height;
 
-
-
-var username = "mazchab";
-var key = "645286027b3ed1c6886321ac7b766e17";
-
-function setup()
-{
-    loadTable('https://www.kaggle.com/fernandol/countries-of-the-world/data#countries%20of%20the%20world.csv', gotData); 
-    createCanvas(800,500);
-    background(255);
 
 }
 
-function gotData(data)
-{
- println(data);
-}
-
-function draw()
-{
-
-
+function gotWeather(weather) {
+  
+  // Get the angle (convert to radians)
+  var angle = radians(Number(weather.current.wind_degree));
+  // Get the wind speed
+  var windmag = Number(weather.current.wind_mph);
+  
+  // Display as HTML elements
+  var temperatureDiv = createDiv(floor(weather.current.temp_f) + '&deg;');
+  var windDiv = createDiv("WIND " + windmag + " <small>MPH</small>");
+  
+  // Make a vector
+  wind = p5.Vector.fromAngle(angle);
 }
