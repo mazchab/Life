@@ -12,18 +12,25 @@ var nameSearch;
 var serial;                               
 var portName = '/dev/cu.usbmodem14111'; 
 
+var lightFont, regFont, boldFont;
 
 
 function preload()
 {
 	data = loadJSON('countryrates.json');
+    
+    lightFont = loadFont('assets/BreeLight.otf');
+    regFont = loadFont('assets/BreeRegular.otf');
+    boldFont = loadFont('assets/BreeExtrabold.otf');
 }
 
 
-
 function setup() 
-{  createCanvas(windowWidth, windowHeight);
-    dataServer = new PubNub(
+{
+    
+createCanvas(windowWidth, windowHeight);
+    
+ dataServer = new PubNub(
  {
    subscribe_key : subKey,
    ssl: true
@@ -42,8 +49,9 @@ var population = data["population"];
 console.log(birthRate);
 console.log(deathRate);
     
-serial.write(birthRate); // send it out the serial port
-serial.write(deathRate); // send it out the serial port
+serial.write(ard_birthRate); // send it out the serial port
+serial.write(ard_deathRate); // send it out the serial port
+    
 }
 
 
@@ -66,13 +74,20 @@ function readIncoming(inMessage)
         console.log(ard_birthRate);
         console.log(ard_deathRate);
     
-        text(country, 100, 100);
-        text(birthRate, 100, 150);
-        text(deathRate, 100, 200);
+        fill(255);
+        textSize(20);
+        text('country', windowWidth/2, windowHeight/2);
+        
+        fill(255);
+        textSize(20);
+        text('birthRate', windowWidth/2, windowHeight/2-20);
+        
+        fill(255);
+        textSize(20);
+        text('deathRate', windowWidth/2, windowHeight/2-40);
     }
 }
 
-function draw(){}
 
 function serialEvent() 
 {
