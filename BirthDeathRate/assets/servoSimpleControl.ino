@@ -2,23 +2,44 @@
 //#include <Adafruit_PWMServoDriver.h>
 
 #include <Servo.h>
-#include <Wire.h>
+//#include <Adafruit_NeoPixel.h>
+
 
 Servo myservo1;
-Servo myservo2;
+Servo myservo2; 
 
 void setup ()
 {
+  Serial.begin(9600);
   myservo1.attach(9);
-myservo1.writeMicroseconds (3000);
-  //myservo1.write (180);
-
   myservo2.attach(10);
-myservo2.writeMicroseconds (1000);
-  //myservo2.write (180);
 }
 
-void loop () {}
+void loop () 
+{
+  if (Serial.available() > 0) { // if there's serial data available
+    int outByte1 = Serial.read();   // read it
+    int outByte2 = Serial.read();
+    
+    Serial.write(outByte1);         // send it back out as raw binary data
+    Serial.write(outByte2);
+    
+    int servoSpeed1 = map(outByte1, 0, 150, 0, 180);     // scale it to use it with the servo (value between 0 and 180)
+    int servoSpeed2 = map(outByte2, 0, 20, 0, 180);
+    
+   
+    myservo1.write(servoSpeed1);
+    myservo2.write(servoSpeed2);
+
+   // delay(15);
+  }
+  
+ // myservo2.writeMicroseconds (1000);
+  //myservo2.write (180);
+
+ // myservo1.writeMicroseconds (3000);
+  //myservo1.write (180);
+}
 
 
 
