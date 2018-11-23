@@ -25,10 +25,10 @@ function setup()
 
 function gotWeather(weather) 
 {
-    outByte1 = Number(weather.current.wind_degree);       // Get the angle (convert to radians)
-    serial.write(outByte1);
-    outByte2 = Number(weather.current.wind_kph);          // Get the wind speed
-   serial.write(outByte2);
+    //outByte1 = Number(weather.current.wind_degree);       // Get the angle (convert to radians)
+    //serial.write(outByte1);
+    //outByte2 = Number(weather.current.wind_kph);          // Get the wind speed
+   //'serial.write(outByte2);
 }
 
 function draw()
