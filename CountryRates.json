@@ -1,1365 +1,1365 @@
  { "population": [
-      {
-         "name": "Afghanistan",
-         "BirthRate": 37.5,
-         "DeathRate": 13.2
-      },
-     {
-    "Name": "Albania",
-         "BirthRate": 13.2,
-         "DeathRate": 6.9
-     },
- 
    {
-    "Name": "Algeria",
-    "BirthRate": 21.5,
-    "DeathRate": 4.3
+      "Name": "Afghanistan",
+      "BirthRate": 37.5,
+      "DeathRate": 13.2
+   },
+   {
+      "Name": "Albania",
+      "BirthRate": 13.2,
+      "DeathRate": 6.9
    },
  
    {
-   "Name": "American Samoa",
-   "BirthRate": 19,
-   "DeathRate": 5.9
+      "Name": "Algeria",
+      "BirthRate": 21.5,
+      "DeathRate": 4.3
    },
  
    {
-   "Name": "Andorra",
-   "BirthRate": 7.3,
-   "DeathRate": 7.4
+      "Name": "American Samoa",
+      "BirthRate": 19,
+      "DeathRate": 5.9
    },
  
    {
-   "Name": "Angola",
-   "BirthRate": 43.7,
-   "DeathRate": 9
+      "Name": "Andorra",
+      "BirthRate": 7.3,
+      "DeathRate": 7.4
    },
  
    {
-   "Name": "Anguilla",
-   "BirthRate": 12.4,
-   "DeathRate": 4.7
-    },
- 
-    {
-   "Name": "Antigua and Barbuda",
-   "BirthRate": 15.6,
-   "DeathRate": 5.8
+      "Name": "Angola",
+      "BirthRate": 43.7,
+      "DeathRate": 9
    },
  
    {
-   "Name": "Argentina",
-   "BirthRate": 16.5,
-   "DeathRate": 7.5
- },
+      "Name": "Anguilla",
+      "BirthRate": 12.4,
+      "DeathRate": 4.7
+   },
  
- {
-   "Name": "Armenia",
-   "BirthRate": 12.6,
-   "DeathRate": 9.5
- },
+   { 
+      "Name": "Antigua and Barbuda",
+      "BirthRate": 15.6,
+      "DeathRate": 5.8
+   },
  
- {
-   "Name": "Aruba",
-   "BirthRate": 12.3,
-   "DeathRate": 8.5
- },
+   {
+      "Name": "Argentina",
+      "BirthRate": 16.5,
+      "DeathRate": 7.5
+   },
+   
+   {
+      "Name": "Armenia",
+      "BirthRate": 12.6,
+      "DeathRate": 9.5
+   },
  
- {
-   "Name": "Australia",
-   "BirthRate": 12,
-   "DeathRate": 7.3
- },
+   {
+      "Name": "Aruba",
+      "BirthRate": 12.3,
+      "DeathRate": 8.5
+   },
  
- {
-   "Name": "Austria",
-   "BirthRate": 9.5,
-   "DeathRate": 9.7
- },
+   {
+      "Name": "Australia",
+      "BirthRate": 12,
+      "DeathRate": 7.3
+   },
  
- {
-   "Name": "Azerbaijan",
-   "BirthRate": 15.3,
-   "DeathRate": 7
- },
+   {
+      "Name": "Austria",
+      "BirthRate": 9.5,
+      "DeathRate": 9.7
+   },
+ 
+   {
+      "Name": "Azerbaijan",
+      "BirthRate": 15.3,
+      "DeathRate": 7
+   },
 
- {
-   "Name": "Bahamas",
-   "BirthRate": 15.1,
-   "DeathRate": 7.3
- },
+   {
+      "Name": "Bahamas",
+      "BirthRate": 15.1,
+      "DeathRate": 7.3
+   },
  
- {
-   "Name": "Bahrain",
-   "BirthRate": 13.1,
-   "DeathRate": 2.8
- },
+   {
+      "Name": "Bahrain",
+      "BirthRate": 13.1,
+      "DeathRate": 2.8
+   },
  
- {
-   "Name": "Bangladesh",
-   "BirthRate": 18.6,
-   "DeathRate": 5.4
- },
+   {
+      "Name": "Bangladesh",
+      "BirthRate": 18.6,
+      "DeathRate": 5.4
+   },
  
- {
-   "Name": "Barbados",
-   "BirthRate": 11.6,
-   "DeathRate": 8.6
- },
+   {
+      "Name": "Barbados",
+      "BirthRate": 11.6,
+      "DeathRate": 8.6
+   },
  
- {
-   "Name": "Belarus",
-   "BirthRate": 10,
-   "DeathRate": 13.2
- },
+   {
+      "Name": "Belarus",
+      "BirthRate": 10,
+      "DeathRate": 13.2
+   },
  
- {
-   "Name": "Belgium",
-   "BirthRate": 11.3,
-   "DeathRate": 9.7
- },
+   {
+      "Name": "Belgium",
+      "BirthRate": 11.3,
+      "DeathRate": 9.7
+   },
  
- {
-   "Name": "Belize",
-   "BirthRate": 22.9,
-   "DeathRate": 4.2
- },
+   {
+      "Name": "Belize",
+      "BirthRate": 22.9,
+      "DeathRate": 4.2
+   },
  
- {
-   "Name": "Benin",
-   "BirthRate": 34.5,
-   "DeathRate": 7.7
- },
+   { 
+      "Name": "Benin",
+      "BirthRate": 34.5,
+      "DeathRate": 7.7
+   },
  
- {
-   "Name": "Bermuda",
-   "BirthRate": 11.3,
-   "DeathRate": 8.7
- },
+   {
+      "Name": "Bermuda",
+      "BirthRate": 11.3,
+      "DeathRate": 8.7
+   },
  
- {
-   "Name": "Bhutan",
-   "BirthRate": 17,
-   "DeathRate": 6.4
- },
+   { 
+      "Name": "Bhutan",
+      "BirthRate": 17,
+      "DeathRate": 6.4
+   },
  
- {
-   "Name": "Bolivia",
-   "BirthRate": 21.6,
-   "DeathRate": 6.3
- },
- 
- {
-   "Name": "Bosnia and Herzegovina",
-   "BirthRate": 8.7,
-   "DeathRate": 10.1
- },
- 
- {
-   "Name": "Botswana",
-   "BirthRate": 21.7,
-   "DeathRate": 9.5
- },
- 
- {
-   "Name": "Brazil",
-   "BirthRate": 13.9,
-   "DeathRate": 6.7
- },
- 
- {
-   "Name": "British Virgin Islands",
-   "BirthRate": 11.1,
-   "DeathRate": 5.2
- },
- 
- {
-   "Name": "Brunei",
-   "BirthRate": 16.9,
-   "DeathRate": 3.7
- },
- 
- {
-   "Name": "Bulgaria",
-   "BirthRate": 8.5,
-   "DeathRate": 14.5
- },
- 
- {
-   "Name": "Burkina Faso",
-   "BirthRate": 36.9,
-   "DeathRate": 8.7
- },
-    
- {
-   "Name": "Burma",
-   "BirthRate": 17.7,
-   "DeathRate": 7.3
- },
-    
- {
-   "Name": "Burundi",
-   "BirthRate": 40.9,
-   "DeathRate": 8.6
- },
-    
- {
-   "Name": "Cabo Verde",
-   "BirthRate": 19.7,
-   "DeathRate": 6
- },
-    
- {
-   "Name": "Cambodia",
-   "BirthRate": 22.5,
-   "DeathRate": 7.4
- },
-    
- {
-   "Name": "Cameroon",
-   "BirthRate": 35,
-   "DeathRate": 9.4
- },
-    
- {
-   "Name": "Canada",
-   "BirthRate": 10.2,
-   "DeathRate": 8.8
- },
-    
- {
-   "Name": "Cayman Islands",
-   "BirthRate": 12,
-   "DeathRate": 5.9
- },
-    
- {
-   "Name": "Central Africa",
-   "BirthRate": 34,
-   "DeathRate": 12.9
- },
-    
- {
-   "Name": "Chad",
-   "BirthRate": 43,
-   "DeathRate": 10.5
- },
-    
- {
-   "Name": "Chile",
-   "BirthRate": 13.4,
-   "DeathRate": 6.3
- },
-    
- {
-   "Name": "China",
-   "BirthRate": 12.1,
-   "DeathRate": 8
- },
-    
- {
-   "Name": "Colombia",
-   "BirthRate": 15.8,
-   "DeathRate": 5.5
- },
-    
- {
-   "Name": "Comoros",
-   "BirthRate": 25.3,
-   "DeathRate": 7.1
- },
-    
- {
-   "Name": "Congo Democratic",
-   "BirthRate": 33.7,
-   "DeathRate": 9.2
- },
-    
- {
-   "Name": "Congo Republic",
-   "BirthRate": 32.8,
-   "DeathRate": 9.4
- },
-    
- {
-   "Name": "Cook Island",
-   "BirthRate": 13.7,
-   "DeathRate": 8.6
- },
-    
- {
-   "Name": "Costa Rica",
-   "BirthRate": 15.3,
-   "DeathRate": 4.8
- },
-    
- {
-   "Name": "Cote d'Ivoir",
-   "BirthRate": 30.1,
-   "DeathRate": 8.4
- },
-    
- {
-   "Name": "Croatia",
-   "BirthRate": 8.8,
-   "DeathRate": 12.4
- },
-    
- {
-   "Name": "Cuba",
-   "BirthRate": 10.6,
-   "DeathRate": 8.9
- },
-    
- {
-   "Name": "Curacao",
-   "BirthRate": 13.7,
-   "DeathRate": 8.5
- },
-    
- {
-   "Name": "Cyprus",
-   "BirthRate": 11.2,
-   "DeathRate": 6.8
- },
-    
- {
-   "Name": "Czechia",
-   "BirthRate": 9.2,
-   "DeathRate": 10."
- },
-    
- {
-   "Namev": "Denmark",
-   "BirthRate": 10.9,
-   "DeathRate": 9.3
- },
-    
- {
-   "Name": "Djibouti",
-   "BirthRate": 23.3,
-   "DeathRate": 7.5
- },
-    
- {
-   "Name": "Dominica",
-   "BirthRate": 15,
-   "DeathRate": 7.9
- },
-    
- {
-   "Name": "Dominican Republic",
-   "BirthRate": 18.9,
-   "DeathRate": 6.4
- },
-    
- {
-   "Name": "Ecuador",
-   "BirthRate": 17.6,
-   "DeathRate": 5.1
- },
-    
- {
-   "Name": "Egypt",
-   "BirthRate": 28.8,
-   "DeathRate": 4.5
- },
-    
- {
-   "Name": "El Salvador",
-   "BirthRate": 16.1,
-   "DeathRate": 5.8
- },
-    
- {
-   "Name": "Equatorial Guinea",
-   "BirthRate": 31.7,
-   "DeathRate": 7.6
- },
-    
- {
-   "Name": "Eritrea",
-   "BirthRate": 29.1,
-   "DeathRate": 7.1
- },
-    
- {
-   "Name": "Estonia",
-   "BirthRate": 9.9,
-   "DeathRate": 12.7
- },
-    
- {
-   "Name": "Eswatini",
-   "BirthRate": 25.8,
-   "DeathRate": 10.7
- },
-    
- {
-   "Name": "Ethiopia",
-   "BirthRate": 36,
-   "DeathRate": 7.5
- },
-    
- {
-   "Name": "Falkland Islands",
-   "BirthRate": 10.9,
-   "DeathRate": 4.9
- },
-    
- {
-   "Name": "Faroe Islands",
-   "BirthRate": 14.5,
-   "DeathRate": 8.8
- },
-    
- {
-   "Name": "Fiji",
-   "BirthRate": 18.2,
-   "DeathRate": 6.2
- },
-    
- {
-   "Name": "Finland",
-   "BirthRate": 10.7,
-   "DeathRate": 10.1
- },
-    
- {
-   "Name": "France",
-   "BirthRate": 12.1,
-   "DeathRate": 9.4
- },
-    
- {
-   "Name": "French Polynesia",
-   "BirthRate": 14.5,
-   "DeathRate": 5.3
- },
-    
- {
-   "Name": "Gabon",
-   "BirthRate": 26.5,
-   "DeathRate": 6.2
- },
-    
- {
-   "Name": "Gambia",
-   "BirthRate": 28.6,
-   "DeathRate": 6.9
- },
-    
- {
-   "Name": "Gaza",
-   "BirthRate": 30.5,
-   "DeathRate": 3
- },
-    
- {
-   "Name": "Georgia",
-   "BirthRate": 12.1,
-   "DeathRate": 10."
- },
-    
- {
-   "Name": "Germany",
-   "BirthRate": 8.6,
-   "DeathRate": 11.8
- },
-    
- {
-   "Name": "Ghana",
-   "BirthRate": 30.2,
-   "DeathRate": 6.8
- },
-    
- {
-   "Name": "Gibraltar",
-   "BirthRate": 13.9,
-   "DeathRate": 8.5
- },
-    
- {
-   "Name": "Greece",
-   "BirthRate": 8.3,
-   "DeathRate": 11.4
- },
-    
- {
-   "Name": "Greenland",
-   "BirthRate": 14.3,
-   "DeathRate": 8.8
- },
-    
- {
-   "Name": "Grenada",
-   "BirthRate": 15.2,
-   "DeathRate": 8.2
- },
-    
- {
-   "Name": "Guam",
-   "BirthRate": 19.4,
-   "DeathRate": 6
- },
-    
- {
-   "Name": "Guatemala",
-   "BirthRate": 24.6,
-   "DeathRate": 5
- },
-    
- {
-   "Name": "Guernsey",
-   "BirthRate": 9.8,
-   "DeathRate": 9
- },
-    
- {
-   "Name": "Guinea",
-   "BirthRate": 36.4,
-   "DeathRate": 8.9
- },
-    
- {
-   "Name": "Guinea Bissau",
-   "BirthRate": 37.3,
-   "DeathRate": 8.5
- },
-    
- {
-   "Name": "Guyana",
-   "BirthRate": 15.4,
-   "DeathRate": 7.4
- },
-    
- {
-   "Name": "Haiti",
-   "BirthRate": 22.6,
-   "DeathRate": 7.5
- },
-    
- {
-   "Name": "Honduras",
-   "BirthRate": 22,
-   "DeathRate": 5.3
- },
-    
- {
-   "Name": "Hong Kong",
-   "BirthRate": 8.8,
-   "DeathRate": 7.6
- },
-    
- {
-   "Name": "Hungary",
-   "BirthRate": 8.9,
-   "DeathRate": 12.8
- },
-    
- {
-   "Name": "Iceland",
-   "BirthRate": 13.6,
-   "DeathRate": 6.5
- },
-    
- {
-   "Name": "India",
-   "BirthRate": 18.7,
-   "DeathRate": 7.3
- },
-    
- {
-   "Name": "Indonesia",
-   "BirthRate": 15.9,
-   "DeathRate": 6.5
- },
-    
- {
-   "Name": "Iran",
-   "BirthRate": 17.4,
-   "DeathRate": 5.3
- },
-    
- {
-   "Name": "Iraq",
-   "BirthRate": 30,
-   "DeathRate": 3.8
- },
-    
- {
-   "Name": "Ireland",
-   "BirthRate": 13.8,
-   "DeathRate": 6.6
- },
-    
- {
-   "Name": "Isle of Man",
-   "BirthRate": 10.9,
-   "DeathRate": 10.2
- },
-    
- {
-   "Name": "Israel",
-   "BirthRate": 17.9,
-   "DeathRate": 5.2
- },
-    
- {
-   "Name": "Italy",
-   "BirthRate": 8.5,
-   "DeathRate": 10.5
- },
-    
- {
-   "Name": "Jamaica",
-   "BirthRate": 16.5,
-   "DeathRate": 7.6
- },
-    
- {
-   "Name": "Japan",
-   "BirthRate": 7.5,
-   "DeathRate": 9.9
- },
-    
- {
-   "Name": "Jersey",
-   "BirthRate": 12.5,
-   "DeathRate": 7.8
- },
-    
- {
-   "Name": "Jordan",
-   "BirthRate": 23.6,
-   "DeathRate": 3.4
- },
-    
- {
-   "Name": "Kazakhstan",
-   "BirthRate": 17.5,
-   "DeathRate": 8.2
- },
-    
- {
-   "Name": "Kenya",
-   "BirthRate": 22.6,
-   "DeathRate": 6.7
- },
-    
- {
-   "Name": "Kiribati",
-   "BirthRate": 21,
-   "DeathRate": 7
- },
-    
- {
-   "Name": "Korea North",
-   "BirthRate": 14.6,
-   "DeathRate": 9.3
- },
-    
- {
-   "Name": "Korea South",
-   "BirthRate": 8.3,
-   "DeathRate": 6.3
- },
-    
- {
-   "Name": "Kuwait",
-   "BirthRate": 18.8,
-   "DeathRate": 2.3
- },
-    
- {
-   "Name": "Kyrgyzstan",
-   "BirthRate": 21.6,
-   "DeathRate": 6.4
- },
-    
- {
-   "Name": "Laos",
-   "BirthRate": 23.2,
-   "DeathRate": 7.3
- },
-    
- {
-   "Name": "Latvia",
-   "BirthRate": 9.6,
-   "DeathRate": 14.5
- },
-    
- {
-   "Name": "Lebanon",
-   "BirthRate": 14.1,
-   "DeathRate": 5.1
- },
-    
- {
-   "Name": "Lesotho",
-   "BirthRate": 24.2,
-   "DeathRate": 15.1
- },
-    
- {
-   "Name": "Liberia",
-   "BirthRate": 37.9,
-   "DeathRate": 7.4
- },
-    
- {
-   "Name": "Libya",
-   "BirthRate": 17.2,
-   "DeathRate": 3.7
- },
-    
- {
-   "Name": "Liechtenster",
-   "BirthRate": 10.4,
-   "DeathRate": 7.6
- },
-    
- {
-   "Name": "Lithuania",
-   "BirthRate": 9.8,
-   "DeathRate": 14.8
- },
-    
- {
-   "Name": "Luxembourg",
-   "BirthRate": 11.6,
-   "DeathRate": 7.3
- },
-    
- {
-   "Name": "Macau",
-   "BirthRate": 8.4,
-   "DeathRate": 4.6
- },
-    
- {
-   "Name": "Macedonia",
-   "BirthRate": 10.8,
-   "DeathRate": 9.6
- },
-    
- {
-   "Name": "Madazascar",
-   "BirthRate": 31,
-   "DeathRate": 6.4
- },
-    
- {
-   "Name": "Malawi",
-   "BirthRate": 40.7,
-   "DeathRate": 7.7
- },
-    
- {
-   "Name": "Malaysia",
-   "BirthRate": 18.8,
-   "DeathRate": 5.2
- },
-    
- {
-   "Name": "Maldives",
-   "BirthRate": 16.1,
-   "DeathRate": 4
- },
-    
- {
-   "Name": "Mali",
-   "BirthRate": 43.2,
-   "DeathRate": 9.6
- },
-    
- {
-   "Name": "Malta",
-   "BirthRate": 10,
-   "DeathRate": 7.9
- },
-    
- {
-   "Name": "Marshall Islands",
-   "BirthRate": 23.8,
-   "DeathRate": 4.2
- },
-    
- {
-   "Name": "Mauritania",
-   "BirthRate": 29.9,
-   "DeathRate": 7.8
- },
-    
- {
-   "Name": "Mauritius",
-   "BirthRate": 12.8,
-   "DeathRate": 7.1
- },
-    
- {
-   "Name": "Mexico",
-   "BirthRate": 18.1,
-   "DeathRate": 5.4
- },
-    
- {
-   "Name": "Micronesia",
-   "BirthRate": 19.6,
-   "DeathRate": 4.2
- },
-    
- {
-   "Name": "Moldova",
-   "BirthRate": 11.2,
-   "DeathRate": 12.6
- },
-    
- {
-   "Name": "Monaco",
-   "BirthRate": 6.5,
-   "DeathRate": 10.1
- },
-    
- {
-   "Name": "Mongolia",
-   "BirthRate": 18.2,
-   "DeathRate": 6.3
- },
-    
- {
-   "Name": "Montenegro",
-   "BirthRate": 11.9,
-   "DeathRate": 10.4
- },
-    
- {
-   "Name": "Montserrat",
-   "BirthRate": 10.5,
-   "DeathRate": 6.2
- },
-    
- {
-   "Name": "Morocco",
-   "BirthRate": 17.5,
-   "DeathRate": 4.9
- },
-    
- {
-   "Name": "Mozambique",
-   "BirthRate": 37.8,
-   "DeathRate": 11.4
- },
-    
- {
-   "Name": "Namibia",
-   "BirthRate": 26.8,
-   "DeathRate": 7.7
- },
-    
- {
-   "Name": "Nauru",
-   "BirthRate": 23.2,
-   "DeathRate": 5.9
- },
-    
- {
-   "Name": "Nepal",
-   "BirthRate": 19.1,
-   "DeathRate": 5.6
- },
-    
- {
-   "Name": "Netherlands",
-   "BirthRate": 10.9,
-   "DeathRate": 9
- },
-    
- {
-   "Name": "New Caledonia",
-   "BirthRate": 14.8,
-   "DeathRate": 5.7
- },
-    
- {
-   "Name": "New Zealand",
-   "BirthRate": 13.1,
-   "DeathRate": 7.6
- },
-    
- {
-   "Name": "Nicaragua",
-   "BirthRate": 17.5,
-   "DeathRate": 5.2
- },
-    
- {
-   "Name": "Niger",
-   "BirthRate": 43.6,
-   "DeathRate": 11.5
- },
-    
- {
-   "Name": "Nigeria",
-   "BirthRate": 35.2,
-   "DeathRate": 9.6
- },
-    
- {
-   "Name": "Northern Mariana Islands",
-   "BirthRate": 14.9,
-   "DeathRate": 4.9
- },
-    
- {
-   "Name": "Norway",
-   "BirthRate": 12.2,
-   "DeathRate": 8
- },
-    
- {
-   "Name": "Oman",
-   "BirthRate": 23.7,
-   "DeathRate": 3.3
- },
-    
- {
-   "Name": "Pakistan",
-   "BirthRate": 21.6,
-   "DeathRate": 6.3
- },
-    
- {
-   "Name": "Palau",
-   "BirthRate": 11.3,
-   "DeathRate": 8.2
- },
-    
- {
-   "Name": "Panama",
-   "BirthRate": 17.6,
-   "DeathRate": 5
- },
-    
- {
-   "Name": "Papua New Guniea",
-   "BirthRate": 23.3,
-   "DeathRate": 6.6
- },
-    
- {
-   "Name": "Paraguay",
-   "BirthRate": 16.6,
-   "DeathRate": 4.8
- },
-    
- {
-   "Name": "Peru",
-   "BirthRate": 17.6,
-   "DeathRate": 6.1
- },
-    
- {
-   "Name": "Philippines",
-   "BirthRate": 23.4,
-   "DeathRate": 6.1
- },
-    
- {
-   "Name": "Poland",
-   "BirthRate": 9.3,
-   "DeathRate": 10.5
- },
-    
- {
-   "Name": "Portugal",
-   "BirthRate": 8.2,
-   "DeathRate": 10.6
- },
-    
- {
-   "Name": "Puerto Rico",
-   "BirthRate": 8,
-   "DeathRate": 8.9
- },
-    
- {
-   "Name": "Qatar",
-   "BirthRate": 9.5,
-   "DeathRate": 1.6
- },
-    
- {
-   "Name": "Romania",
-   "BirthRate": 8.7,
-   "DeathRate": 12
- },
-    
- {
-   "Name": "Russia",
-   "BirthRate": 10.7,
-   "DeathRate": 13.4
- },
-    
- {
-   "Name": "Rwanda",
-   "BirthRate": 29.8,
-   "DeathRate": 6.3
- },
-    
- {
-   "Name": "Saint Helen",
-   "BirthRate": 9.4,
-   "DeathRate": 8
- },
-    
- {
-   "Name": "Saint Kitts",
-   "BirthRate": 13,
-   "DeathRate": 7.2
- },
-    
- {
-   "Name": "Saint Lucia",
-   "BirthRate": 13.1,
-   "DeathRate": 7.8
- },
-    
- {
-   "Name": "Saint Pierr",
-   "BirthRate": 7,
-   "DeathRate": 10.2
-     
- },
-    
- {
-   "Name": "Saint Vince",
-   "BirthRate": 13,
-   "DeathRate": 7.4
- },
-    
- {
-   "Name": "Samoa",
-   "BirthRate": 20.2,
-   "DeathRate": 5.4
- },
-    
- {
-   "Name": "San Marino",
-   "BirthRate": 8.6,
-   "DeathRate": 8.8
- },
-    
- {
-   "Name": "Sao Tome and Principe",
-   "BirthRate": 31.5,
-   "DeathRate": 6.7
- },
-    
- {
-   "Name": "Saudi Arabia",
-   "BirthRate": 15.6,
-   "DeathRate": 3.3
- },
-    
- {
-   "Name": "Senegal",
-   "BirthRate": 32.9,
-   "DeathRate": 7.9
- },
-    
- {
-   "Name": "Serbia",
-   "BirthRate": 8.9,
-   "DeathRate": 13.6
- },
-    
- {
-   "Name": "Seychelles",
-   "BirthRate": 13.4,
-   "DeathRate": 7
- },
-    
- {
-   "Name": "Sierra Leon",
-   "BirthRate": 36,
-   "DeathRate": 10.2
- },
-    
- {
-   "Name": "Singapore",
-   "BirthRate": 8.7,
-   "DeathRate": 3.5
- },
-    
- {
-   "Name": "Saint Maarte",
-   "BirthRate": 13.1,
-   "DeathRate": 5.4
- },
-    
- {
-   "Name": "Slovakia",
-   "BirthRate": 9.6,
-   "DeathRate": 9.9
- },
-    
- {
-   "Name": "Slovenia",
-   "BirthRate": 9.2,
-   "DeathRate": 9.9
- },
-    
- {
-   "Name": "Solomon Islands",
-   "BirthRate": 24.5,
-   "DeathRate": 3.8
- },
-    
- {
-   "Name": "Somalia",
-   "BirthRate": 39.3,
-   "DeathRate": 12.8
- },
-    
- {
-   "Name": "South Africa",
-   "BirthRate": 19.9,
-   "DeathRate": 9.3
- },
-    
- {
-   "Name": "South Sudan",
-   "BirthRate": 36.9,
-   "DeathRate": 19.3
- },
-    
- {
-   "Name": "Spain",
-   "BirthRate": 9,
-   "DeathRate": 9.2
- },
-    
- {
-   "Name": "Sri Lanka",
-   "BirthRate": 14.8,
-   "DeathRate": 6.3
- },
-    
- {
-   "Name": "Sudan",
-   "BirthRate": 34.2,
-   "DeathRate": 6.7
- },
- 
- {
-   "Name": "SuriName",
-   "BirthRate": 15.6,
-   "DeathRate": 6.1
- },
-    
- {
-   "Name": "Sweden",
-   "BirthRate": 12.1,
-   "DeathRate": 9.4
- },
-    
- {
-   "Name": "Switzerland",
-   "BirthRate": 10.5,
-   "DeathRate": 8.4
- },
-    
- {
-   "Name": "Syria",
-   "BirthRate": 20.7,
-   "DeathRate": 4
- },
-    
- {
-   "Name": "Taiwan",
-   "BirthRate": 8.2,
-   "DeathRate": 7.6
- },
-    
- {
-   "Name": "Tajikistan",
-   "BirthRate": 22.8,
-   "DeathRate": 5.9
- },
-    
- {
-   "Name": "Tanzania",
-   "BirthRate": 35.3,
-   "DeathRate": 7.5
- },
-    
- {
-   "Name": "Thailand",
-   "BirthRate": 11,
-   "DeathRate": 8.1
- },
-    
- {
-   "Name": "Timor Leste",
-   "BirthRate": 32.9,
-   "DeathRate": 5.8
- },
-    
- {
-   "Name": "Togo",
-   "BirthRate": 32.8,
-   "DeathRate": 6.8
- },
-    
- {
-   "Name": "Tonga",
-   "BirthRate": 21.8,
-   "DeathRate": 4.9
- },
-    
- {
-   "Name": "Trinidad and Tobago",
-   "BirthRate": 12.3,
-   "DeathRate": 8.9
- },
-    
- {
-   "Name": "Tunisia",
-   "BirthRate": 17.4,
-   "DeathRate": 6.4
- },
-    
- {
-   "Name": "Turkey",
-   "BirthRate": 15.4,
-   "DeathRate": 6
- },
-    
- {
-   "Name": "Turkmenistan",
-   "BirthRate": 18.9,
-   "DeathRate": 6.1
- },
-    
- {
-   "Name": "Turks and Caicos",
-   "BirthRate": 14.9,
-   "DeathRate": 3.3
- },
-    
- {
-   "Name": "Tuvalu",
-   "BirthRate": 23.7,
-   "DeathRate": 8.4
- },
-    
- {
-   "Name": "Uganda",
-   "BirthRate": 42.4,
-   "DeathRate": 9.9
- },
-    
- {
-   "Name": "Ukraine",
-   "BirthRate": 10.1,
-   "DeathRate": 14.3
- },
-    
- {
-   "Name": "United Arab Emirates",
-   "BirthRate": 9.8,
-   "DeathRate": 1.7
- },
-    
- {
-   "Name": "United Kingdom",
-   "BirthRate": 12,
-   "DeathRate": 9.4
- },
-    
- {
-   "Name": "United States",
-   "BirthRate": 12.4,
-   "DeathRate": 8.2
- },
-    
- {
-   "Name": "Uruguay",
-   "BirthRate": 13,
-   "DeathRate": 9.4
- },
-    
- {
-   "Name": "Uzbekistan",
-   "BirthRate": 16.6,
-   "DeathRate": 5.4
- },
-    
- {
-   "Name": "Vanuatu",
-   "BirthRate": 23.5,
-   "DeathRate": 4
- },
-    
- {
-   "Name": "Venezuela",
-   "BirthRate": 18.5,
-   "DeathRate": 5.3
- },
-    
- {
-   "Name": "Vietnam",
-   "BirthRate": 15.2,
-   "DeathRate": 5.9
- },
-    
- {
-   "Name": "Virgin Islands",
-   "BirthRate": 12.5,
-   "DeathRate": 8.1
- },
-    
- {
-   "Name": "Wallis and Futuna",
-   "BirthRate": 13,
-   "DeathRate": 5.5
- },
-    
- {
-   "Name": "West Bank",
-   "BirthRate": 26,
-   "DeathRate": 3.5
- },
-    
- {
-   "Name": "Western Sahara",
-   "BirthRate": 28.9,
-   "DeathRate": 7.9
- },
-    
- {
-   "Name": "World",
-   "BirthRate": 19,
-   "DeathRate": 8
- },
-    
- {
-   "Name": "Yemen",
-   "BirthRate": 27.6,
-   "DeathRate": 5.9
- },
-    
- {
-   "Name": "Zambia",
-   "BirthRate": 41.1,
-   "DeathRate": 12
- },
-    
- {
-   "Name": "Zimbabwe",
-   "BirthRate": 34,
-   "DeathRate": 9.9
- }
-]
-}
+   {
+      "Name": "Bolivia",
+      "BirthRate": 21.6,
+      "DeathRate": 6.3
+    },
+    
+    {
+      "Name": "Bosnia and Herzegovina",
+      "BirthRate": 8.7,
+      "DeathRate": 10.1
+    },
+    
+    {
+      "Name": "Botswana",
+      "BirthRate": 21.7,
+      "DeathRate": 9.5
+    },
+    
+    {
+      "Name": "Brazil",
+      "BirthRate": 13.9,
+      "DeathRate": 6.7
+    },
+    
+    {
+      "Name": "British Virgin Islands",
+      "BirthRate": 11.1,
+      "DeathRate": 5.2
+    },
+    
+    {
+      "Name": "Brunei",
+      "BirthRate": 16.9,
+      "DeathRate": 3.7
+    },
+    
+    {
+      "Name": "Bulgaria",
+      "BirthRate": 8.5,
+      "DeathRate": 14.5
+    },
+    
+    {
+      "Name": "Burkina Faso",
+      "BirthRate": 36.9,
+      "DeathRate": 8.7
+    },
+       
+    {
+      "Name": "Burma",
+      "BirthRate": 17.7,
+      "DeathRate": 7.3
+    },
+       
+    {
+      "Name": "Burundi",
+      "BirthRate": 40.9,
+      "DeathRate": 8.6
+    },
+       
+    {
+      "Name": "Cabo Verde",
+      "BirthRate": 19.7,
+      "DeathRate": 6
+    },
+       
+    {
+      "Name": "Cambodia",
+      "BirthRate": 22.5,
+      "DeathRate": 7.4
+    },
+       
+    {
+      "Name": "Cameroon",
+      "BirthRate": 35,
+      "DeathRate": 9.4
+    },
+       
+    {
+      "Name": "Canada",
+      "BirthRate": 10.2,
+      "DeathRate": 8.8
+    },
+       
+    {
+      "Name": "Cayman Islands",
+      "BirthRate": 12,
+      "DeathRate": 5.9
+    },
+       
+    {
+      "Name": "Central Africa",
+      "BirthRate": 34,
+      "DeathRate": 12.9
+    },
+       
+    {
+      "Name": "Chad",
+      "BirthRate": 43,
+      "DeathRate": 10.5
+    },
+       
+    {
+      "Name": "Chile",
+      "BirthRate": 13.4,
+      "DeathRate": 6.3
+    },
+       
+    {
+      "Name": "China",
+      "BirthRate": 12.1,
+      "DeathRate": 8
+    },
+       
+    {
+      "Name": "Colombia",
+      "BirthRate": 15.8,
+      "DeathRate": 5.5
+    },
+       
+    {
+      "Name": "Comoros",
+      "BirthRate": 25.3,
+      "DeathRate": 7.1
+    },
+       
+    {
+      "Name": "Congo Democratic",
+      "BirthRate": 33.7,
+      "DeathRate": 9.2
+    },
+       
+    {
+      "Name": "Congo Republic",
+      "BirthRate": 32.8,
+      "DeathRate": 9.4
+    },
+       
+    {
+      "Name": "Cook Island",
+      "BirthRate": 13.7,
+      "DeathRate": 8.6
+    },
+       
+    {
+      "Name": "Costa Rica",
+      "BirthRate": 15.3,
+      "DeathRate": 4.8
+    },
+       
+    {
+      "Name": "Cote d'Ivoir",
+      "BirthRate": 30.1,
+      "DeathRate": 8.4
+    },
+       
+    {
+      "Name": "Croatia",
+      "BirthRate": 8.8,
+      "DeathRate": 12.4
+    },
+       
+    {
+      "Name": "Cuba",
+      "BirthRate": 10.6,
+      "DeathRate": 8.9
+    },
+       
+    {
+      "Name": "Curacao",
+      "BirthRate": 13.7,
+      "DeathRate": 8.5
+    },
+       
+    {
+      "Name": "Cyprus",
+      "BirthRate": 11.2,
+      "DeathRate": 6.8
+    },
+       
+    {
+      "Name": "Czechia",
+      "BirthRate": 9.2,
+      "DeathRate": 10
+    },
+       
+    {
+      "Namev": "Denmark",
+      "BirthRate": 10.9,
+      "DeathRate": 9.3
+    },
+       
+    {
+      "Name": "Djibouti",
+      "BirthRate": 23.3,
+      "DeathRate": 7.5
+    },
+       
+    {
+      "Name": "Dominica",
+      "BirthRate": 15,
+      "DeathRate": 7.9
+    },
+       
+    {
+      "Name": "Dominican Republic",
+      "BirthRate": 18.9,
+      "DeathRate": 6.4
+    },
+       
+    {
+      "Name": "Ecuador",
+      "BirthRate": 17.6,
+      "DeathRate": 5.1
+    },
+       
+    {
+      "Name": "Egypt",
+      "BirthRate": 28.8,
+      "DeathRate": 4.5
+    },
+       
+    {
+      "Name": "El Salvador",
+      "BirthRate": 16.1,
+      "DeathRate": 5.8
+    },
+       
+    {
+      "Name": "Equatorial Guinea",
+      "BirthRate": 31.7,
+      "DeathRate": 7.6
+    },
+       
+    {
+      "Name": "Eritrea",
+      "BirthRate": 29.1,
+      "DeathRate": 7.1
+    },
+       
+    {
+      "Name": "Estonia",
+      "BirthRate": 9.9,
+      "DeathRate": 12.7
+    },
+       
+    {
+      "Name": "Eswatini",
+      "BirthRate": 25.8,
+      "DeathRate": 10.7
+    },
+       
+    {
+      "Name": "Ethiopia",
+      "BirthRate": 36,
+      "DeathRate": 7.5
+    },
+       
+    {
+      "Name": "Falkland Islands",
+      "BirthRate": 10.9,
+      "DeathRate": 4.9
+    },
+       
+    {
+      "Name": "Faroe Islands",
+      "BirthRate": 14.5,
+      "DeathRate": 8.8
+    },
+       
+    {
+      "Name": "Fiji",
+      "BirthRate": 18.2,
+      "DeathRate": 6.2
+    },
+       
+    {
+      "Name": "Finland",
+      "BirthRate": 10.7,
+      "DeathRate": 10.1
+    },
+       
+    {
+      "Name": "France",
+      "BirthRate": 12.1,
+      "DeathRate": 9.4
+    },
+       
+    {
+      "Name": "French Polynesia",
+      "BirthRate": 14.5,
+      "DeathRate": 5.3
+    },
+       
+    {
+      "Name": "Gabon",
+      "BirthRate": 26.5,
+      "DeathRate": 6.2
+    },
+       
+    {
+      "Name": "Gambia",
+      "BirthRate": 28.6,
+      "DeathRate": 6.9
+    },
+       
+    {
+      "Name": "Gaza",
+      "BirthRate": 30.5,
+      "DeathRate": 3
+    },
+       
+    {
+      "Name": "Georgia",
+      "BirthRate": 12.1,
+      "DeathRate": 10.0
+    },
+       
+    {
+      "Name": "Germany",
+      "BirthRate": 8.6,
+      "DeathRate": 11.8
+    },
+       
+    {
+      "Name": "Ghana",
+      "BirthRate": 30.2,
+      "DeathRate": 6.8
+    },
+       
+    {
+      "Name": "Gibraltar",
+      "BirthRate": 13.9,
+      "DeathRate": 8.5
+    },
+       
+    {
+      "Name": "Greece",
+      "BirthRate": 8.3,
+      "DeathRate": 11.4
+    },
+       
+    {
+      "Name": "Greenland",
+      "BirthRate": 14.3,
+      "DeathRate": 8.8
+    },
+       
+    {
+      "Name": "Grenada",
+      "BirthRate": 15.2,
+      "DeathRate": 8.2
+    },
+       
+    {
+      "Name": "Guam",
+      "BirthRate": 19.4,
+      "DeathRate": 6
+    },
+       
+    {
+      "Name": "Guatemala",
+      "BirthRate": 24.6,
+      "DeathRate": 5
+    },
+       
+    {
+      "Name": "Guernsey",
+      "BirthRate": 9.8,
+      "DeathRate": 9
+    },
+       
+    {
+      "Name": "Guinea",
+      "BirthRate": 36.4,
+      "DeathRate": 8.9
+    },
+       
+    {
+      "Name": "Guinea Bissau",
+      "BirthRate": 37.3,
+      "DeathRate": 8.5
+    },
+       
+    {
+      "Name": "Guyana",
+      "BirthRate": 15.4,
+      "DeathRate": 7.4
+    },
+       
+    {
+      "Name": "Haiti",
+      "BirthRate": 22.6,
+      "DeathRate": 7.5
+    },
+       
+    {
+      "Name": "Honduras",
+      "BirthRate": 22,
+      "DeathRate": 5.3
+    },
+       
+    {
+      "Name": "Hong Kong",
+      "BirthRate": 8.8,
+      "DeathRate": 7.6
+    },
+       
+    {
+      "Name": "Hungary",
+      "BirthRate": 8.9,
+      "DeathRate": 12.8
+    },
+       
+    {
+      "Name": "Iceland",
+      "BirthRate": 13.6,
+      "DeathRate": 6.5
+    },
+       
+    {
+      "Name": "India",
+      "BirthRate": 18.7,
+      "DeathRate": 7.3
+    },
+       
+    {
+      "Name": "Indonesia",
+      "BirthRate": 15.9,
+      "DeathRate": 6.5
+    },
+       
+    {
+      "Name": "Iran",
+      "BirthRate": 17.4,
+      "DeathRate": 5.3
+    },
+       
+    {
+      "Name": "Iraq",
+      "BirthRate": 30,
+      "DeathRate": 3.8
+    },
+       
+    {
+      "Name": "Ireland",
+      "BirthRate": 13.8,
+      "DeathRate": 6.6
+    },
+       
+    {
+      "Name": "Isle of Man",
+      "BirthRate": 10.9,
+      "DeathRate": 10.2
+    },
+       
+    {
+      "Name": "Israel",
+      "BirthRate": 17.9,
+      "DeathRate": 5.2
+    },
+       
+    {
+      "Name": "Italy",
+      "BirthRate": 8.5,
+      "DeathRate": 10.5
+    },
+       
+    {
+      "Name": "Jamaica",
+      "BirthRate": 16.5,
+      "DeathRate": 7.6
+    },
+       
+    {
+      "Name": "Japan",
+      "BirthRate": 7.5,
+      "DeathRate": 9.9
+    },
+       
+    {
+      "Name": "Jersey",
+      "BirthRate": 12.5,
+      "DeathRate": 7.8
+    },
+       
+    {
+      "Name": "Jordan",
+      "BirthRate": 23.6,
+      "DeathRate": 3.4
+    },
+       
+    {
+      "Name": "Kazakhstan",
+      "BirthRate": 17.5,
+      "DeathRate": 8.2
+    },
+       
+    {
+      "Name": "Kenya",
+      "BirthRate": 22.6,
+      "DeathRate": 6.7
+    },
+       
+    {
+      "Name": "Kiribati",
+      "BirthRate": 21,
+      "DeathRate": 7
+    },
+       
+    {
+      "Name": "Korea North",
+      "BirthRate": 14.6,
+      "DeathRate": 9.3
+    },
+       
+    {
+      "Name": "Korea South",
+      "BirthRate": 8.3,
+      "DeathRate": 6.3
+    },
+       
+    {
+      "Name": "Kuwait",
+      "BirthRate": 18.8,
+      "DeathRate": 2.3
+    },
+       
+    {
+      "Name": "Kyrgyzstan",
+      "BirthRate": 21.6,
+      "DeathRate": 6.4
+    },
+       
+    {
+      "Name": "Laos",
+      "BirthRate": 23.2,
+      "DeathRate": 7.3
+    },
+       
+    {
+      "Name": "Latvia",
+      "BirthRate": 9.6,
+      "DeathRate": 14.5
+    },
+       
+    {
+      "Name": "Lebanon",
+      "BirthRate": 14.1,
+      "DeathRate": 5.1
+    },
+       
+    {
+      "Name": "Lesotho",
+      "BirthRate": 24.2,
+      "DeathRate": 15.1
+    },
+       
+    {
+      "Name": "Liberia",
+      "BirthRate": 37.9,
+      "DeathRate": 7.4
+    },
+       
+    {
+      "Name": "Libya",
+      "BirthRate": 17.2,
+      "DeathRate": 3.7
+    },
+       
+    {
+      "Name": "Liechtenster",
+      "BirthRate": 10.4,
+      "DeathRate": 7.6
+    },
+       
+    {
+      "Name": "Lithuania",
+      "BirthRate": 9.8,
+      "DeathRate": 14.8
+    },
+       
+    {
+      "Name": "Luxembourg",
+      "BirthRate": 11.6,
+      "DeathRate": 7.3
+    },
+       
+    {
+      "Name": "Macau",
+      "BirthRate": 8.4,
+      "DeathRate": 4.6
+    },
+       
+    {
+      "Name": "Macedonia",
+      "BirthRate": 10.8,
+      "DeathRate": 9.6
+    },
+       
+    {
+      "Name": "Madazascar",
+      "BirthRate": 31,
+      "DeathRate": 6.4
+    },
+       
+    {
+      "Name": "Malawi",
+      "BirthRate": 40.7,
+      "DeathRate": 7.7
+    },
+       
+    {
+      "Name": "Malaysia",
+      "BirthRate": 18.8,
+      "DeathRate": 5.2
+    },
+       
+    {
+      "Name": "Maldives",
+      "BirthRate": 16.1,
+      "DeathRate": 4
+    },
+       
+    {
+      "Name": "Mali",
+      "BirthRate": 43.2,
+      "DeathRate": 9.6
+    },
+       
+    {
+      "Name": "Malta",
+      "BirthRate": 10,
+      "DeathRate": 7.9
+    },
+       
+    {
+      "Name": "Marshall Islands",
+      "BirthRate": 23.8,
+      "DeathRate": 4.2
+    },
+       
+    {
+      "Name": "Mauritania",
+      "BirthRate": 29.9,
+      "DeathRate": 7.8
+    },
+       
+    {
+      "Name": "Mauritius",
+      "BirthRate": 12.8,
+      "DeathRate": 7.1
+    },
+       
+    {
+      "Name": "Mexico",
+      "BirthRate": 18.1,
+      "DeathRate": 5.4
+    },
+       
+    {
+      "Name": "Micronesia",
+      "BirthRate": 19.6,
+      "DeathRate": 4.2
+    },
+       
+    {
+      "Name": "Moldova",
+      "BirthRate": 11.2,
+      "DeathRate": 12.6
+    },
+       
+    {
+      "Name": "Monaco",
+      "BirthRate": 6.5,
+      "DeathRate": 10.1
+    },
+       
+    {
+      "Name": "Mongolia",
+      "BirthRate": 18.2,
+      "DeathRate": 6.3
+    },
+       
+    {
+      "Name": "Montenegro",
+      "BirthRate": 11.9,
+      "DeathRate": 10.4
+    },
+       
+    {
+      "Name": "Montserrat",
+      "BirthRate": 10.5,
+      "DeathRate": 6.2
+    },
+       
+    {
+      "Name": "Morocco",
+      "BirthRate": 17.5,
+      "DeathRate": 4.9
+    },
+       
+    {
+      "Name": "Mozambique",
+      "BirthRate": 37.8,
+      "DeathRate": 11.4
+    },
+       
+    {
+      "Name": "Namibia",
+      "BirthRate": 26.8,
+      "DeathRate": 7.7
+    },
+       
+    {
+      "Name": "Nauru",
+      "BirthRate": 23.2,
+      "DeathRate": 5.9
+    },
+       
+    {
+      "Name": "Nepal",
+      "BirthRate": 19.1,
+      "DeathRate": 5.6
+    },
+       
+    {
+      "Name": "Netherlands",
+      "BirthRate": 10.9,
+      "DeathRate": 9
+    },
+       
+    {
+      "Name": "New Caledonia",
+      "BirthRate": 14.8,
+      "DeathRate": 5.7
+    },
+       
+    {
+      "Name": "New Zealand",
+      "BirthRate": 13.1,
+      "DeathRate": 7.6
+    },
+       
+    {
+      "Name": "Nicaragua",
+      "BirthRate": 17.5,
+      "DeathRate": 5.2
+    },
+       
+    {
+      "Name": "Niger",
+      "BirthRate": 43.6,
+      "DeathRate": 11.5
+    },
+       
+    {
+      "Name": "Nigeria",
+      "BirthRate": 35.2,
+      "DeathRate": 9.6
+    },
+       
+    {
+      "Name": "Northern Mariana Islands",
+      "BirthRate": 14.9,
+      "DeathRate": 4.9
+    },
+       
+    {
+      "Name": "Norway",
+      "BirthRate": 12.2,
+      "DeathRate": 8
+    },
+       
+    {
+      "Name": "Oman",
+      "BirthRate": 23.7,
+      "DeathRate": 3.3
+    },
+       
+    {
+      "Name": "Pakistan",
+      "BirthRate": 21.6,
+      "DeathRate": 6.3
+    },
+       
+    {
+      "Name": "Palau",
+      "BirthRate": 11.3,
+      "DeathRate": 8.2
+    },
+       
+    {
+      "Name": "Panama",
+      "BirthRate": 17.6,
+      "DeathRate": 5
+    },
+       
+    {
+      "Name": "Papua New Guniea",
+      "BirthRate": 23.3,
+      "DeathRate": 6.6
+    },
+       
+    {
+      "Name": "Paraguay",
+      "BirthRate": 16.6,
+      "DeathRate": 4.8
+    },
+       
+    {
+      "Name": "Peru",
+      "BirthRate": 17.6,
+      "DeathRate": 6.1
+    },
+       
+    {
+      "Name": "Philippines",
+      "BirthRate": 23.4,
+      "DeathRate": 6.1
+    },
+       
+    {
+      "Name": "Poland",
+      "BirthRate": 9.3,
+      "DeathRate": 10.5
+    },
+       
+    {
+      "Name": "Portugal",
+      "BirthRate": 8.2,
+      "DeathRate": 10.6
+    },
+       
+    {
+      "Name": "Puerto Rico",
+      "BirthRate": 8,
+      "DeathRate": 8.9
+    },
+       
+    {
+      "Name": "Qatar",
+      "BirthRate": 9.5,
+      "DeathRate": 1.6
+    },
+       
+    {
+      "Name": "Romania",
+      "BirthRate": 8.7,
+      "DeathRate": 12
+    },
+       
+    {
+      "Name": "Russia",
+      "BirthRate": 10.7,
+      "DeathRate": 13.4
+    },
+       
+    {
+      "Name": "Rwanda",
+      "BirthRate": 29.8,
+      "DeathRate": 6.3
+    },
+       
+    {
+      "Name": "Saint Helen",
+      "BirthRate": 9.4,
+      "DeathRate": 8
+    },
+       
+    {
+      "Name": "Saint Kitts",
+      "BirthRate": 13,
+      "DeathRate": 7.2
+    },
+       
+    {
+      "Name": "Saint Lucia",
+      "BirthRate": 13.1,
+      "DeathRate": 7.8
+    },
+       
+    {
+      "Name": "Saint Pierr",
+      "BirthRate": 7,
+      "DeathRate": 10.2
+        
+    },
+       
+    {
+      "Name": "Saint Vince",
+      "BirthRate": 13,
+      "DeathRate": 7.4
+    },
+       
+    {
+      "Name": "Samoa",
+      "BirthRate": 20.2,
+      "DeathRate": 5.4
+    },
+       
+    {
+      "Name": "San Marino",
+      "BirthRate": 8.6,
+      "DeathRate": 8.8
+    },
+       
+    {
+      "Name": "Sao Tome and Principe",
+      "BirthRate": 31.5,
+      "DeathRate": 6.7
+    },
+       
+    {
+      "Name": "Saudi Arabia",
+      "BirthRate": 15.6,
+      "DeathRate": 3.3
+    },
+       
+    {
+      "Name": "Senegal",
+      "BirthRate": 32.9,
+      "DeathRate": 7.9
+    },
+       
+    {
+      "Name": "Serbia",
+      "BirthRate": 8.9,
+      "DeathRate": 13.6
+    },
+       
+    {
+      "Name": "Seychelles",
+      "BirthRate": 13.4,
+      "DeathRate": 7
+    },
+       
+    {
+      "Name": "Sierra Leon",
+      "BirthRate": 36,
+      "DeathRate": 10.2
+    },
+       
+    {
+      "Name": "Singapore",
+      "BirthRate": 8.7,
+      "DeathRate": 3.5
+    },
+       
+    {
+      "Name": "Saint Maarte",
+      "BirthRate": 13.1,
+      "DeathRate": 5.4
+    },
+       
+    {
+      "Name": "Slovakia",
+      "BirthRate": 9.6,
+      "DeathRate": 9.9
+    },
+       
+    {
+      "Name": "Slovenia",
+      "BirthRate": 9.2,
+      "DeathRate": 9.9
+    },
+       
+    {
+      "Name": "Solomon Islands",
+      "BirthRate": 24.5,
+      "DeathRate": 3.8
+    },
+       
+    {
+      "Name": "Somalia",
+      "BirthRate": 39.3,
+      "DeathRate": 12.8
+    },
+       
+    {
+      "Name": "South Africa",
+      "BirthRate": 19.9,
+      "DeathRate": 9.3
+    },
+       
+    {
+      "Name": "South Sudan",
+      "BirthRate": 36.9,
+      "DeathRate": 19.3
+    },
+       
+    {
+      "Name": "Spain",
+      "BirthRate": 9,
+      "DeathRate": 9.2
+    },
+       
+    {
+      "Name": "Sri Lanka",
+      "BirthRate": 14.8,
+      "DeathRate": 6.3
+    },
+       
+    {
+      "Name": "Sudan",
+      "BirthRate": 34.2,
+      "DeathRate": 6.7
+    },
+    
+    {
+      "Name": "SuriName",
+      "BirthRate": 15.6,
+      "DeathRate": 6.1
+    },
+       
+    {
+      "Name": "Sweden",
+      "BirthRate": 12.1,
+      "DeathRate": 9.4
+    },
+       
+    {
+      "Name": "Switzerland",
+      "BirthRate": 10.5,
+      "DeathRate": 8.4
+    },
+       
+    {
+      "Name": "Syria",
+      "BirthRate": 20.7,
+      "DeathRate": 4
+    },
+       
+    {
+      "Name": "Taiwan",
+      "BirthRate": 8.2,
+      "DeathRate": 7.6
+    },
+       
+    {
+      "Name": "Tajikistan",
+      "BirthRate": 22.8,
+      "DeathRate": 5.9
+    },
+       
+    {
+      "Name": "Tanzania",
+      "BirthRate": 35.3,
+      "DeathRate": 7.5
+    },
+       
+    {
+      "Name": "Thailand",
+      "BirthRate": 11,
+      "DeathRate": 8.1
+    },
+       
+    {
+      "Name": "Timor Leste",
+      "BirthRate": 32.9,
+      "DeathRate": 5.8
+    },
+       
+    {
+      "Name": "Togo",
+      "BirthRate": 32.8,
+      "DeathRate": 6.8
+    },
+       
+    {
+      "Name": "Tonga",
+      "BirthRate": 21.8,
+      "DeathRate": 4.9
+    },
+       
+    {
+      "Name": "Trinidad and Tobago",
+      "BirthRate": 12.3,
+      "DeathRate": 8.9
+    },
+       
+    {
+      "Name": "Tunisia",
+      "BirthRate": 17.4,
+      "DeathRate": 6.4
+    },
+       
+    {
+      "Name": "Turkey",
+      "BirthRate": 15.4,
+      "DeathRate": 6
+    },
+       
+    {
+      "Name": "Turkmenistan",
+      "BirthRate": 18.9,
+      "DeathRate": 6.1
+    },
+       
+    {
+      "Name": "Turks and Caicos",
+      "BirthRate": 14.9,
+      "DeathRate": 3.3
+    },
+       
+    {
+      "Name": "Tuvalu",
+      "BirthRate": 23.7,
+      "DeathRate": 8.4
+    },
+       
+    {
+      "Name": "Uganda",
+      "BirthRate": 42.4,
+      "DeathRate": 9.9
+    },
+       
+    {
+      "Name": "Ukraine",
+      "BirthRate": 10.1,
+      "DeathRate": 14.3
+    },
+       
+    {
+      "Name": "United Arab Emirates",
+      "BirthRate": 9.8,
+      "DeathRate": 1.7
+    },
+       
+    {
+      "Name": "United Kingdom",
+      "BirthRate": 12,
+      "DeathRate": 9.4
+    },
+       
+    {
+      "Name": "United States",
+      "BirthRate": 12.4,
+      "DeathRate": 8.2
+    },
+       
+    {
+      "Name": "Uruguay",
+      "BirthRate": 13,
+      "DeathRate": 9.4
+    },
+       
+    {
+      "Name": "Uzbekistan",
+      "BirthRate": 16.6,
+      "DeathRate": 5.4
+    },
+       
+    {
+      "Name": "Vanuatu",
+      "BirthRate": 23.5,
+      "DeathRate": 4
+    },
+       
+    {
+      "Name": "Venezuela",
+      "BirthRate": 18.5,
+      "DeathRate": 5.3
+    },
+       
+    {
+      "Name": "Vietnam",
+      "BirthRate": 15.2,
+      "DeathRate": 5.9
+    },
+       
+    {
+      "Name": "Virgin Islands",
+      "BirthRate": 12.5,
+      "DeathRate": 8.1
+    },
+       
+    {
+      "Name": "Wallis and Futuna",
+      "BirthRate": 13,
+      "DeathRate": 5.5
+    },
+       
+    {
+      "Name": "West Bank",
+      "BirthRate": 26,
+      "DeathRate": 3.5
+    },
+       
+    {
+      "Name": "Western Sahara",
+      "BirthRate": 28.9,
+      "DeathRate": 7.9
+    },
+       
+    {
+      "Name": "World",
+      "BirthRate": 19,
+      "DeathRate": 8
+    },
+       
+    {
+      "Name": "Yemen",
+      "BirthRate": 27.6,
+      "DeathRate": 5.9
+    },
+       
+    {
+      "Name": "Zambia",
+      "BirthRate": 41.1,
+      "DeathRate": 12
+    },
+       
+    {
+      "Name": "Zimbabwe",
+      "BirthRate": 34,
+      "DeathRate": 9.9
+    }
+   ]
+   }
 
