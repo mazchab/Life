@@ -19,9 +19,9 @@ function preload()
 {
 	data = loadJSON('countryrates.json');
     
-    lightFont = loadFont('assets/BreeLight.otf');
-    regFont = loadFont('assets/BreeRegular.otf');
-    boldFont = loadFont('assets/BreeExtrabold.otf');
+//    lightFont = loadFont('assets/BreeLight.otf');
+//    regFont = loadFont('assets/BreeRegular.otf');
+//    boldFont = loadFont('assets/BreeExtrabold.otf');
 }
 
 
@@ -29,6 +29,7 @@ function setup()
 {
     
 createCanvas(windowWidth, windowHeight);
+    background(0);
     
  dataServer = new PubNub(
  {
@@ -74,17 +75,17 @@ function readIncoming(inMessage)
         console.log(ard_birthRate);
         console.log(ard_deathRate);
     
+//       
+//        
         fill(255);
-        textSize(20);
-        text('country', windowWidth/2, windowHeight/2);
+        textSize(50);
+        textAlign(CENTER);
         
-        fill(255);
-        textSize(20);
-        text('birthRate', windowWidth/2, windowHeight/2-20);
+        text(country, windowWidth/2, windowHeight/2);
+        text(birthRate, windowWidth/2, windowHeight/2-60);
+        text(deathRate, windowWidth/2, windowHeight/2-120);    
         
-        fill(255);
-        textSize(20);
-        text('deathRate', windowWidth/2, windowHeight/2-40);
+        
     }
 }
 
